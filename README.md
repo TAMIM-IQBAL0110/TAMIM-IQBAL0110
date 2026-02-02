@@ -1,103 +1,164 @@
-<h1 align="center">Hi 👋, I'm Tamim</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Tamim;Full-Stack+Developer;Competitive+Programmer;DSA+Enthusiast" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <b>CSE Undergraduate | RUET</b><br/>
-  Full-Stack Development • Competitive Programming • DSA
+  <strong>🎓 CSE Undergraduate | RUET</strong><br/>
+  <em>Building scalable applications & solving complex problems</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" />
-</p>
-
----
-
-## ✨ About Me
-🎓 Computer Science & Engineering student at **Rajshahi University of Engineering & Technology (RUET)**  
-💻 Interested in **building scalable applications** and **writing efficient algorithms**  
-🧠 Strong focus on **Data Structures, Algorithms & Problem Solving**  
-🚀 Actively preparing for **internships and software engineering roles**
-
----
-
-## 🧩 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,nodejs,express,mongodb,git,linux,vscode" />
+  <img src="https://komarev.com/ghpvc/?username=TAMIM-IQBAL0110&style=flat-square&color=00D9FF" />
 </p>
 
 ---
 
-## 🚀 Featured Work
+## 🌟 About Me
 
-<table>
-<tr>
-<td width="50%">
+> **🎓** Computer Science & Engineering student at **Rajshahi University of Engineering & Technology (RUET)**  
+> **💻** Passionate about **building scalable applications** with modern technologies  
+> **🧠** Strong foundation in **Data Structures, Algorithms & Problem Solving**  
+> **🚀** Actively seeking **internship opportunities** in software engineering  
+> **⚡** Always learning, always shipping
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,nodejs,express,mongodb,git,linux,vscode,docker" />
+  </a>
+</p>
+
+**Languages:** C • C++ • JavaScript • Python  
+**Frontend:** React • Tailwind CSS • Vite  
+**Backend:** Node.js • Express • MongoDB  
+**Tools & Platforms:** Git • Linux • VS Code • Docker
+
+---
+
+## 💼 Featured Projects
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+
+<div style="flex: 1; min-width: 300px; padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px rgba(102, 126, 234, 0.4), 0 2px 8px rgba(0, 0, 0, 0.1); color: white;">
 
 ### 📌 STUDY_SYNC  
-Task & study management web application  
-**Tech:** React, Node.js, Express, MongoDB  
-🔹 Authentication & user management  
-🔹 Task tracking & analytics  
-🔹 Clean REST API design  
+**Task & Study Management Platform**
 
-</td>
-<td width="50%">
+A full-stack web application for students to track tasks, manage study schedules, and visualize progress.
+
+**Tech Stack:**
+- Frontend: React, Tailwind CSS, Vite
+- Backend: Node.js, Express
+- Database: MongoDB
+
+**Highlights:**
+✅ User authentication  
+✅ Real-time task tracking  
+✅ Analytics dashboard  
+✅ PWA support  
+
+</div>
+
+<div style="flex: 1; min-width: 300px; padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); box-shadow: 0 8px 32px rgba(245, 87, 108, 0.4), 0 2px 8px rgba(0, 0, 0, 0.1); color: white;">
 
 ### 🧠 Competitive Programming  
-Regular problem solving on online judges  
-🔹 Strong grasp of algorithms  
-🔹 Time & space optimization  
-🔹 Clean and readable solutions  
+**Algorithm Mastery**
 
-</td>
-</tr>
+Consistent problem solving across multiple online judges with focus on optimization and clean solutions.
 
-<tr>
-<td width="50%">
+**Achievements:**
+✅ Strong algorithmic foundation  
+✅ Optimized complexity  
+✅ Deep pattern understanding  
+✅ Interview-ready solutions  
+
+**Platforms:**
+- Codeforces
+- LeetCode
+- HackerRank
+
+</div>
+
+</div>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-top: 20px;">
+
+<div style="flex: 1; min-width: 300px; padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); box-shadow: 0 8px 32px rgba(79, 172, 254, 0.4), 0 2px 8px rgba(0, 0, 0, 0.1); color: white;">
 
 ### 📚 Data Structures & Algorithms  
-Well-structured DSA implementations  
-**Tech:** C++, Python  
-🔹 Arrays, Stacks, Queues  
-🔹 Trees, Graphs  
-🔹 Dynamic Programming  
+**Comprehensive DSA Library**
 
-</td>
-<td width="50%">
+Well-documented implementations of fundamental and advanced DSA concepts.
 
-### 🧪 Practice & Learning  
-Concept-driven repositories  
-🔹 Algorithm patterns  
-🔹 Interview-focused problems  
-🔹 Clear documentation  
+**Coverage:**
+✅ Linear: Arrays, Stacks, Queues  
+✅ Hierarchical: Trees, Graphs  
+✅ Advanced: DP, Greedy Algorithms  
+✅ Sorting & Searching  
 
-</td>
-</tr>
-</table>
+**Languages:** C++, Python
+
+</div>
+
+<div style="flex: 1; min-width: 300px; padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); box-shadow: 0 8px 32px rgba(67, 233, 123, 0.4), 0 2px 8px rgba(0, 0, 0, 0.1); color: white;">
+
+### 🧪 Learning & Practice  
+**Concept-Driven Repositories**
+
+Focused learning with emphasis on understanding core concepts and interview patterns.
+
+**Includes:**
+✅ Algorithm explanations  
+✅ Multiple approaches  
+✅ Complexity analysis  
+✅ Interview problems  
+✅ Clean code  
+
+</div>
+
+</div>
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TAMIM-IQBAL0110&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAMIM-IQBAL0110&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TAMIM-IQBAL0110&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-tamim-iqbal-37404b260/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <a href="https://github.com/TAMIM-IQBAL0110">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:tamimiqbal0110@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://codeforces.com/profile/tamim110">
+    <img src="https://img.shields.io/badge/Codeforces-1F1C1C?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>💡 Always open to collaborating on interesting projects and learning opportunities!</strong>
+</p>
+
+---
+
+<p align="center">
+  <em>⭐ If you find my repositories helpful, please consider giving them a star! It means a lot.</em>
 </p>
