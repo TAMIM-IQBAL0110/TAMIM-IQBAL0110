@@ -128,19 +128,6 @@ Well-documented implementations of fundamental and advanced DSA concepts.
 </div>
 
 <div style="flex: 1; min-width: 300px; padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); box-shadow: 0 8px 32px rgba(67, 233, 123, 0.4), 0 2px 8px rgba(0, 0, 0, 0.1); color: white;">
-
-### 🧪 Learning & Practice  
-**Concept-Driven Repositories**
-
-Focused learning with emphasis on understanding core concepts and interview patterns.
-
-**Includes:**
-✅ Algorithm explanations  
-✅ Multiple approaches  
-✅ Complexity analysis  
-✅ Interview problems  
-✅ Clean code  
-
 </div>
 
 </div>
