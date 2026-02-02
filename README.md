@@ -1,61 +1,105 @@
 <h1 align="center">Hi 👋, I'm Tamim</h1>
-<h3 align="center">Computer Science & Engineering Student | RUET</h3>
+<p align="center">
+  <b>CSE Undergraduate | RUET</b><br/>
+  Full-Stack Development • Systems • Problem Solving
+</p>
 
 <p align="center">
-  💻 Full-Stack Development • Systems • Problem Solving  
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 CSE Undergraduate at **Rajshahi University of Engineering & Technology (RUET)**
-- 🔭 Currently working on **full-stack and system-level projects**
-- 🌱 Learning **backend scalability & operating systems**
-- ⚡ Interested in **real-world problem solving**
+## ✨ About Me
+🎓 Computer Science & Engineering student at **Rajshahi University of Engineering & Technology (RUET)**  
+💻 Passionate about **building real-world applications** and understanding systems deeply  
+🧠 Interested in **Full-Stack Development, Operating Systems & Signal Processing**  
+🚀 Actively improving my **project quality & engineering practices**
 
 ---
 
-## 🛠️ Tech Stack
-**Languages**
-- C, C++, JavaScript, Python
+## 🧩 Tech Stack
 
-**Frontend**
-- React, Tailwind CSS
-
-**Backend**
-- Node.js, Express
-
-**Tools & Platforms**
-- Git, Linux, GitHub, VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,nodejs,express,mongodb,git,linux,vscode" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
-🔹 **STUDY_SYNC**  
-Full-stack task & study management system  
-`React • Node.js • Express • MongoDB`
 
-🔹 **OS Process Management**  
-Process scheduling & memory handling simulation  
-`C • Operating Systems`
+<table>
+<tr>
+<td width="50%">
 
-🔹 **Signal Processing with FFT**  
-Frequency-domain analysis of discrete signals  
-`MATLAB / Python`
+### 📌 STUDY_SYNC  
+Task & study management web application  
+**Tech:** React, Node.js, Express, MongoDB  
+🔹 Authentication  
+🔹 Task analytics  
+🔹 Chrome extension integration  
 
-👉 Check pinned repositories below ⬇️
+</td>
+<td width="50%">
+
+### ⚙️ OS Process Management  
+Simulation of process scheduling & memory management  
+**Tech:** C, Operating Systems  
+🔹 Process table  
+🔹 Scheduler logic  
+🔹 Low-level design  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Signal Processing with FFT  
+Frequency domain analysis of discrete signals  
+**Tech:** MATLAB / Python  
+🔹 FFT comparison  
+🔹 Spectrum visualization  
+
+</td>
+<td width="50%">
+
+### 🧠 Algorithms & Problem Solving  
+Structured DSA implementations  
+**Tech:** C++  
+🔹 Clean logic  
+🔹 Well-documented  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: *(add link)*
-- 🌍 Portfolio: *(your website link)*
-- 📧 Email: *(optional)*
 
+<p align="center">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/md-tamim-iqbal-37404b260/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
