@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Tamim</h1>
 <p align="center">
   <b>CSE Undergraduate | RUET</b><br/>
-  Full-Stack Development • Systems • Problem Solving
+  Full-Stack Development • Competitive Programming • DSA
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" />
 </p>
 
 ---
 
 ## ✨ About Me
 🎓 Computer Science & Engineering student at **Rajshahi University of Engineering & Technology (RUET)**  
-💻 Passionate about **building real-world applications** and understanding systems deeply  
-🧠 Interested in **Full-Stack Development, Operating Systems & Signal Processing**  
-🚀 Actively improving my **project quality & engineering practices**
+💻 Interested in **building scalable applications** and **writing efficient algorithms**  
+🧠 Strong focus on **Data Structures, Algorithms & Problem Solving**  
+🚀 Actively preparing for **internships and software engineering roles**
 
 ---
 
@@ -28,7 +26,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 <table>
 <tr>
@@ -37,19 +35,18 @@
 ### 📌 STUDY_SYNC  
 Task & study management web application  
 **Tech:** React, Node.js, Express, MongoDB  
-🔹 Authentication  
-🔹 Task analytics  
-🔹 Chrome extension integration  
+🔹 Authentication & user management  
+🔹 Task tracking & analytics  
+🔹 Clean REST API design  
 
 </td>
 <td width="50%">
 
-### ⚙️ OS Process Management  
-Simulation of process scheduling & memory management  
-**Tech:** C, Operating Systems  
-🔹 Process table  
-🔹 Scheduler logic  
-🔹 Low-level design  
+### 🧠 Competitive Programming  
+Regular problem solving on online judges  
+🔹 Strong grasp of algorithms  
+🔹 Time & space optimization  
+🔹 Clean and readable solutions  
 
 </td>
 </tr>
@@ -57,20 +54,21 @@ Simulation of process scheduling & memory management
 <tr>
 <td width="50%">
 
-### 📊 Signal Processing with FFT  
-Frequency domain analysis of discrete signals  
-**Tech:** MATLAB / Python  
-🔹 FFT comparison  
-🔹 Spectrum visualization  
+### 📚 Data Structures & Algorithms  
+Well-structured DSA implementations  
+**Tech:** C++, Python  
+🔹 Arrays, Stacks, Queues  
+🔹 Trees, Graphs  
+🔹 Dynamic Programming  
 
 </td>
 <td width="50%">
 
-### 🧠 Algorithms & Problem Solving  
-Structured DSA implementations  
-**Tech:** C++  
-🔹 Clean logic  
-🔹 Well-documented  
+### 🧪 Practice & Learning  
+Concept-driven repositories  
+🔹 Algorithm patterns  
+🔹 Interview-focused problems  
+🔹 Clear documentation  
 
 </td>
 </tr>
@@ -93,7 +91,7 @@ Structured DSA implementations
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/md-tamim-iqbal-37404b260/)">
+  <a href="https://www.linkedin.com/in/md-tamim-iqbal-37404b260/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="YOUR_PORTFOLIO_LINK">
