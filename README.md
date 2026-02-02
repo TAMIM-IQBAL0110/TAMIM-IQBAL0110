@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Tamim;Full-Stack+Developer;Competitive+Programmer;DSA+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Tamim;Full-Stack+Developer;ML+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <strong>🎓 CSE Undergraduate | RUET</strong><br/>
-  <em>Building scalable applications & solving complex problems</em>
+  <em>Passionate about learning, building innovative solutions, and collaborating with talented teams</em>
 </p>
 
 <p align="center">
@@ -15,11 +15,20 @@
 
 ## 🌟 About Me
 
-> **🎓** Computer Science & Engineering student at **Rajshahi University of Engineering & Technology (RUET)**  
-> **💻** Passionate about **building scalable applications** with modern technologies  
-> **🧠** Strong foundation in **Data Structures, Algorithms & Problem Solving**  
-> **🚀** Actively seeking **internship opportunities** in software engineering  
-> **⚡** Always learning, always shipping
+> **🎓 Computer Science & Engineering Student**  
+> I'm a CSE undergraduate at **Rajshahi University of Engineering & Technology (RUET)**, passionate about creating innovative software solutions.
+>
+> **💻 MERN Stack Developer**  
+> Proficient in building full-stack web applications using **React, Node.js, Express, and MongoDB**. I specialize in creating scalable, responsive applications with clean and maintainable code architecture.
+>
+> **🧠 Competitive Programmer**  
+> Dedicated problem solver with strong expertise in **Data Structures, Algorithms, and Optimization Techniques**. I regularly participate in competitive programming contests and consistently improve my algorithmic skills.
+>
+> **🧬 ML Enthusiast**  
+> Exploring machine learning concepts and data-driven solutions. Interested in **AI/ML applications** and their integration with modern web technologies to build intelligent systems.
+>
+> **🚀 Lifelong Learner**  
+> Actively seeking internship opportunities to apply my diverse skill set in real-world projects and contribute to innovative software engineering solutions.
 
 ---
 
@@ -34,7 +43,23 @@
 **Languages:** C • C++ • JavaScript • Python  
 **Frontend:** React • Tailwind CSS • Vite  
 **Backend:** Node.js • Express • MongoDB  
-**Tools & Platforms:** Git • Linux • VS Code • Docker
+**Tools & Platforms:** Git • VS Code
+
+---
+
+## 🧬 Machine Learning Skills
+
+**Libraries & Frameworks:**
+- 🐼 **Pandas** - Data manipulation and analysis
+- 📊 **NumPy** - Numerical computing and array operations
+- 📈 **Matplotlib** - Data visualization and plotting
+- 🎯 **Scikit-learn** - Machine learning algorithms and preprocessing
+
+**Algorithms & Techniques:**
+- 🌳 **Tree Algorithms** - Decision Trees, Random Forests, Gradient Boosting
+- 📐 **Linear Algorithms** - Linear Regression, Logistic Regression, SVM
+- 📊 **Data Preprocessing** - Feature scaling, encoding, handling missing values
+- 🧪 **Model Evaluation** - Cross-validation, confusion matrix, performance metrics
 
 ---
 
@@ -52,7 +77,7 @@ A full-stack web application for students to track tasks, manage study schedules
 **Tech Stack:**
 - Frontend: React, Tailwind CSS, Vite
 - Backend: Node.js, Express
-- Database: MongoDB
+- Database: MongoDB,MySQL
 
 **Highlights:**
 ✅ User authentication  
@@ -72,8 +97,7 @@ Consistent problem solving across multiple online judges with focus on optimizat
 **Achievements:**
 ✅ Strong algorithmic foundation  
 ✅ Optimized complexity  
-✅ Deep pattern understanding  
-✅ Interview-ready solutions  
+✅ Deep pattern understanding    
 
 **Platforms:**
 - Codeforces
@@ -88,7 +112,7 @@ Consistent problem solving across multiple online judges with focus on optimizat
 
 <div style="flex: 1; min-width: 300px; padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); box-shadow: 0 8px 32px rgba(79, 172, 254, 0.4), 0 2px 8px rgba(0, 0, 0, 0.1); color: white;">
 
-### 📚 Data Structures & Algorithms  
+### Data Structures & Algorithms  
 **Comprehensive DSA Library**
 
 Well-documented implementations of fundamental and advanced DSA concepts.
